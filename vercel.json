@@ -2,7 +2,8 @@
     "rewrites":[
         {
             "source":"/(.*)",
-            "destination":"/valentine.html"
+            "destination":"/index.html"
         }
     ]
+
 }
